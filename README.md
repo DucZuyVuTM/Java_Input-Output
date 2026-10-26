@@ -27,6 +27,10 @@ mvn --version     # Java version: 25
 - [task3/](src/main/java/nio/Task3Checksum.java) - Асинхронная обработка запроса
 - [task4/](src/main/java/nio/Task4WatchService.java) - Producer / Consumer
 
+### Слишком тяжелые ресурсы
+
+![Resources](images/resources.png)
+
 ## Команды запуска
 
 Сборка проекта:
